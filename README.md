@@ -1,16 +1,44 @@
-## Hi there 👋
+<p align="center">
+  <img src="YouTubeBanner.png" alt="YouTube Banner" style="width:100%;max-width:800px;">
+</p>
 
-<!--
-**jvgitty/jvgitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Jorge!
 
-Here are some ideas to get you started:
+I'm a marketing and automation enthusiast, passionate about leveraging AI and no-code/low-code tools to solve real-world business challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Specialties
+
+- **Marketing (8+ years):**  
+  Deep expertise in digital marketing, with an emphasis on Google products—Search, YouTube, and beyond.
+  I have a strong background in GoHighLevel building automations and integrations.
+- **AI & Automation:**  
+  Skilled at designing robust automations and workflows, primarily with [n8n](https://n8n.io/) and [Cursor](https://cursor.com/).  
+  I thrive on making complex processes efficient and scalable.
+- **Systems Thinking & Visualization:**  
+  A firm believer in structured planning and idea visualization through tools like [Miro](https://miro.com/).
+
+## 🚀 My Coding Journey
+
+About two and a half years ago, I dove into coding and automation—discovering the thrill of building smart, interconnected systems. For the past year, n8n and Cursor have been my go-to platforms for empowering automation projects.
+
+## 💡 What I Do
+
+- Build and optimize marketing funnels using AI-driven automations.
+- Automate repetitive workflows to save teams time and money.
+- Diagram and plan projects in detail before launch.
+
+## 💼 Projects
+
+- [ConsultYourLawyer.com](https://consultyourlawyer.com)
+- [CallInsights.pro](https://callinsights.pro)
+
+## 🔗 Let’s Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/jorge-villalobos-b4173b106)
+- [Business Website](https://io2labs.com)
+- [YouTube Channel](https://www.youtube.com/@jorgevillalobos2916)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvgitty&show_icons=true&theme=radical)
+Tips:
