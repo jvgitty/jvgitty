@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YouTubeBanner.png" alt="YouTube Banner" style="width:100%;max-width:800px;">
+  <img src="banner-cropped.png" alt="Banner Image" style="width:100%;max-width:800px;">
 </p>
 
 # 👋 Hi, I'm Jorge!
