@@ -33,8 +33,3 @@ I'm a marketing and automation enthusiast, passionate about leveraging AI and no
 - [LinkedIn](https://www.linkedin.com/in/jorge-villalobos-b4173b106)
 - [Business Website](https://io2labs.com)
 - [YouTube Channel](https://www.youtube.com/@jorgevillalobos2916)
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvgitty&show_icons=true&theme=radical)
-Tips:
