@@ -31,17 +31,18 @@ I'm a marketing and automation enthusiast, passionate about leveraging AI and no
 
 ## 💡 What I Do
 
-- Build and optimize marketing funnels using AI-driven automations.
-- Automate repetitive workflows to save teams time and money.
-- Diagram and plan projects in detail before launch.
+- Build and optimize marketing funnels using AI-driven automations. _**(I am great at this!)**_
+- Automate repetitive workflows to save teams time and money. (I can help with this)
+- Diagram and plan projects in detail before launch. _**(I am great at this!)**_
+- Constantly evolving, learning, and building with AI tools. (Constantly learning while building 💪)
 
 ## 💼 Projects
 
-- [ConsultYourLawyer.com](https://consultyourlawyer.com)
-- [CallInsights.pro](https://callinsights.pro)
+- [ConsultYourLawyer.com](https://consultyourlawyer.com) >> Building the ultimate tool that connects people with law firms.
+- [CallInsights.pro](https://callinsights.pro) >> Get coaching, trainable insights that uses your call data in real time. **Always** know what is ACTUALLY driving results... _And what isn't_.
 
 ## 🔗 Let’s Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/jorge-villalobos-b4173b106)
+- [LinkedIn](https://www.linkedin.com/in/jorge-villalobos-b4173b106) << _Best way to connect with me!_
 - [Business Website](https://io2labs.com)
 - [YouTube Channel](https://www.youtube.com/@jorgevillalobos2916)
