@@ -18,10 +18,10 @@ I'm a marketing and automation enthusiast, passionate about leveraging AI and no
   A firm believer in structured planning and idea visualization through tools like [Miro](https://miro.com/).
 <p>
   <a href="miro-aivideoautomation.png" target="_blank">
-    <img src="miro-aivideoautomation.png" alt="AI Video Automation Miro Board" width="150" style="margin-right:10px;">
+    <img src="miro-aivideoautomation.png" alt="AI Video Automation Miro Board" width="150" height="100" style="margin-right:10px;">
   </a>
   <a href="miro-youtubecomments.png" target="_blank">
-    <img src="miro-youtubecomments.png" alt="YouTube Comments Miro Board" width="150">
+    <img src="miro-youtubecomments.png" alt="YouTube Comments Miro Board" width="150" height="100">
   </a>
 </p>
 
