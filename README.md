@@ -17,10 +17,6 @@ I'm a marketing and automation enthusiast, passionate about leveraging AI and no
 - **Systems Thinking & Visualization:**  
   A firm believer in structured planning and idea visualization through tools like [Miro](https://miro.com/).
 
-## 🚀 My Coding Journey
-
-About two and a half years ago, I dove into coding and automation—discovering the thrill of building smart, interconnected systems. For the past year, n8n and Cursor have been my go-to platforms for empowering automation projects.
-
 ## 💡 What I Do
 
 - Build and optimize marketing funnels using AI-driven automations.
