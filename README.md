@@ -16,6 +16,14 @@ I'm a marketing and automation enthusiast, passionate about leveraging AI and no
   I thrive on making complex processes efficient and scalable.
 - **Systems Thinking & Visualization:**  
   A firm believer in structured planning and idea visualization through tools like [Miro](https://miro.com/).
+<p>
+  <a href="miro-aivideoautomation.png" target="_blank">
+    <img src="miro-aivideoautomation.png" alt="AI Video Automation Miro Board" width="150" style="margin-right:10px;">
+  </a>
+  <a href="miro-youtubecomments.png" target="_blank">
+    <img src="miro-youtubecomments.png" alt="YouTube Comments Miro Board" width="150">
+  </a>
+</p>
 
 ## 💡 What I Do
 
